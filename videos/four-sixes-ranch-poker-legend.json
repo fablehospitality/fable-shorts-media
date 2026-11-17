@@ -28,8 +28,18 @@
   "angle": "The real history of the Four Sixes (6666) Ranch he bought: the poker-hand legend vs. Burk Burnett's 100 cattle, Quanah Parker and Roosevelt's 1905 wolf hunt",
   "checked_at": "2026-11-17T20:40:00Z"
  },
- "youtube": {},
+ "youtube": {
+  "id": "1HSiWgya3wQ",
+  "url": "https://youtube.com/shorts/1HSiWgya3wQ",
+  "studio": "https://studio.youtube.com/video/1HSiWgya3wQ/edit",
+  "thumbnail": "set",
+  "containsSyntheticMedia": true
+ },
  "facebook": {},
  "instagram": {},
- "tiktok": {}
+ "tiktok": {
+  "status": "manual",
+  "note": "no Claude in Chrome in this run"
+ },
+ "containsSyntheticMedia": true
 }
