@@ -27,5 +27,8 @@
  },
  "facebook": {},
  "instagram": {},
- "tiktok": {}
+ "tiktok": {
+  "status": "manual",
+  "note": "Claude in Chrome tools were not available to this cloud run; post by hand: https://raw.githubusercontent.com/fablehospitality/fable-shorts-media/main/videos/anglo-zanzibar-war_social.mp4 for Fri 2026-11-20 9:00 AM PT, Everyone, AI-generated label on, cover = _thumb.jpg"
+ }
 }
