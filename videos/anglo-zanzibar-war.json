@@ -18,7 +18,13 @@
  "video": "anglo-zanzibar-war.mp4",
  "social_video": "anglo-zanzibar-war_social.mp4",
  "thumb": "anglo-zanzibar-war_thumb.jpg",
- "youtube": {},
+ "youtube": {
+  "id": "IJQrriEHBOA",
+  "url": "https://youtube.com/shorts/IJQrriEHBOA",
+  "studio": "https://studio.youtube.com/video/IJQrriEHBOA/edit",
+  "thumbnail": "set",
+  "containsSyntheticMedia": true
+ },
  "facebook": {},
  "instagram": {},
  "tiktok": {}
