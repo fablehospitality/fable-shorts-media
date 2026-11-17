@@ -22,8 +22,17 @@
  "video": "alaska-purchase.mp4",
  "social_video": "alaska-purchase_social.mp4",
  "thumb": "alaska-purchase_thumb.jpg",
- "youtube": {},
+ "youtube": {
+  "id": "bj5rXf57bD4",
+  "url": "https://youtube.com/shorts/bj5rXf57bD4",
+  "studio": "https://studio.youtube.com/video/bj5rXf57bD4/edit",
+  "thumbnail": "set"
+ },
  "facebook": {},
  "instagram": {},
- "tiktok": {}
+ "tiktok": {
+  "status": "manual",
+  "note": "no Claude in Chrome in this run"
+ },
+ "containsSyntheticMedia": true
 }
