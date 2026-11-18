@@ -28,8 +28,18 @@
   "angle": "The longest Speaker election in US history: Dec 1855 - Feb 1856, 133 ballots, plurality rule, Banks 103 - Aiken 100",
   "checked_at": "2026-11-18T18:50:00Z"
  },
- "youtube": {},
+ "youtube": {
+  "id": "YIoKuObuVTA",
+  "url": "https://youtube.com/shorts/YIoKuObuVTA",
+  "studio": "https://studio.youtube.com/video/YIoKuObuVTA/edit",
+  "thumbnail": "set",
+  "containsSyntheticMedia": true
+ },
  "facebook": {},
  "instagram": {},
- "tiktok": {}
+ "tiktok": {
+  "status": "manual",
+  "note": "no Claude in Chrome in this run"
+ },
+ "containsSyntheticMedia": true
 }
