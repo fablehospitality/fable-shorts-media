@@ -39,7 +39,10 @@
     "post_id": "2356019968467393",
     "posted_at": "2026-11-18T17:03:28Z"
   },
-  "instagram": {},
+  "instagram": {
+    "post_id": "18109355264285751",
+    "posted_at": "2026-11-18T17:07:08Z"
+  },
   "tiktok": {
     "status": "manual",
     "note": "no Claude in Chrome in this run"
