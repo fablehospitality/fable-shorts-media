@@ -44,8 +44,11 @@
     "posted_at": "2026-11-18T17:07:08Z"
   },
   "tiktok": {
-    "status": "manual",
-    "note": "no Claude in Chrome in this run"
+    "status": "scheduled",
+    "via": "buffer",
+    "buffer_post_id": "6afe799b0c76ebbfc208a924",
+    "scheduled_at": "2026-11-22T17:00:00Z",
+    "note": "Scheduled via Buffer on 2026-11-19 (catch-up, 9 AM PT); no AI label or custom cover via Buffer"
   },
   "containsSyntheticMedia": true
 }
