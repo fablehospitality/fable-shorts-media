@@ -29,7 +29,12 @@
     "post_id": "1694937925316230",
     "posted_at": "2026-11-20T17:04:32Z"
   },
-  "instagram": {},
+  "instagram": {
+    "post_id": "18118531766029817",
+    "posted_at": "2026-11-20T17:11:06Z",
+    "note": "first attempt returned 'still processing'; checked feed, not posted; retry succeeded",
+    "url": "https://www.instagram.com/reel/Df-KAyxoSL5/"
+  },
   "tiktok": {
     "status": "scheduled",
     "via": "buffer",

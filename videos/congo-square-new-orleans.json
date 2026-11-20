@@ -45,7 +45,8 @@
  "instagram": {
   "post_id": "18249115132313309",
   "posted_at": "2026-11-20T17:07:29Z",
-  "note": "first attempt returned 'still processing'; checked feed, not posted; retry succeeded"
+  "note": "first attempt returned 'still processing'; checked feed, not posted; retry succeeded",
+  "url": "https://www.instagram.com/reel/Df-JjQihHoT/"
  },
  "tiktok": {
   "status": "scheduled",
