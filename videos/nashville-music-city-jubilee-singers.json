@@ -31,8 +31,21 @@
   "angle": "The CMA Awards were in Nashville this week; why Nashville is called Music City: the Fisk Jubilee Singers / Queen Victoria legend vs. the WSM 'Music City USA' record",
   "checked_at": "2026-11-20T18:50:00Z"
  },
- "youtube": {},
+ "youtube": {
+  "id": "DYL6hNoXy4A",
+  "url": "https://youtube.com/shorts/DYL6hNoXy4A",
+  "studio": "https://studio.youtube.com/video/DYL6hNoXy4A/edit",
+  "thumbnail": "set",
+  "containsSyntheticMedia": true
+ },
  "facebook": {},
  "instagram": {},
- "tiktok": {}
+ "tiktok": {
+  "status": "scheduled",
+  "via": "buffer",
+  "buffer_post_id": "6b009eb2d2a90220a90bc6fa",
+  "scheduled_at": "2026-11-21T01:00:00Z",
+  "note": "Buffer: no AI-generated label setting, TikTok auto cover"
+ },
+ "containsSyntheticMedia": true
 }
