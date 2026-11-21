@@ -28,7 +28,10 @@
     "studio": "https://studio.youtube.com/video/bj5rXf57bD4/edit",
     "thumbnail": "set"
   },
-  "facebook": {},
+  "facebook": {
+    "post_id": "982747224596213",
+    "posted_at": "2026-11-21T17:04:12Z"
+  },
   "instagram": {},
   "tiktok": {
     "status": "scheduled",
