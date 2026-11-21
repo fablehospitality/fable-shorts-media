@@ -29,8 +29,21 @@
   "angle": "The history behind Ohio Stadium's nickname, 'The House That Harley Built': Chic Harley, the Michigan rivalry and the 1920-22 stadium campaign",
   "checked_at": "2026-11-21T10:48:00-08:00"
  },
- "youtube": {},
+ "youtube": {
+  "id": "InTGOa8HIWA",
+  "url": "https://youtube.com/shorts/InTGOa8HIWA",
+  "studio": "https://studio.youtube.com/video/InTGOa8HIWA/edit",
+  "thumbnail": "set",
+  "containsSyntheticMedia": true
+ },
  "facebook": {},
  "instagram": {},
- "tiktok": {}
+ "tiktok": {
+  "status": "scheduled",
+  "via": "buffer",
+  "buffer_post_id": "6b01f2b85ce1a6b767023957",
+  "scheduled_at": "2026-11-22T17:00:00Z",
+  "note": "Scheduled via Buffer 2026-11-21; no AI label or custom cover through Buffer. Same 9 AM slot as the Four Sixes catch-up post already in the Buffer queue."
+ },
+ "containsSyntheticMedia": true
 }
