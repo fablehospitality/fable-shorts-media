@@ -31,8 +31,21 @@
   "angle": "Steelers vs. Eagles this week; in 1943 WWII player shortages merged them into one team, the Steagles",
   "checked_at": "2026-11-22T18:48:00Z"
  },
- "youtube": {},
+ "youtube": {
+  "id": "wnHT6ZXz8hk",
+  "url": "https://youtube.com/shorts/wnHT6ZXz8hk",
+  "studio": "https://studio.youtube.com/video/wnHT6ZXz8hk/edit",
+  "thumbnail": "set",
+  "containsSyntheticMedia": true
+ },
  "facebook": {},
  "instagram": {},
- "tiktok": {}
+ "tiktok": {
+  "status": "scheduled",
+  "via": "buffer",
+  "buffer_post_id": "6b03414082eed6ab4c083582",
+  "scheduled_at": "2026-11-23T17:00:00Z",
+  "note": "No AI label or custom cover via Buffer; shares the 9 AM minute with a Speaker-election post already in the Buffer queue"
+ },
+ "containsSyntheticMedia": true
 }
