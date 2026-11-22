@@ -40,7 +40,11 @@
     "post_id": "1468842612104975",
     "posted_at": "2026-11-22T17:03:37Z"
   },
-  "instagram": {},
+  "instagram": {
+    "post_id": "17919980523546926",
+    "posted_at": "2026-11-22T17:07:16Z",
+    "note": "first attempt returned 'still processing'; checked feed, not posted; retry succeeded"
+  },
   "tiktok": {
     "status": "scheduled",
     "via": "buffer",
