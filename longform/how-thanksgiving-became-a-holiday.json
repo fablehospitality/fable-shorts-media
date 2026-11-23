@@ -63,5 +63,13 @@
     "angle": "How the holiday was built in layers from 1621 to the 1941 law",
     "checked_at": "2026-11-23T17:50:00Z"
   },
-  "youtube": {}
+  "youtube": {
+    "id": "DhTK7sJU9q0",
+    "url": "https://youtu.be/DhTK7sJU9q0",
+    "studio": "https://studio.youtube.com/video/DhTK7sJU9q0/edit",
+    "privacy": "public",
+    "published_at": "2026-11-23T22:24:33Z",
+    "thumbnail": "set",
+    "containsSyntheticMedia": true
+  }
 }
