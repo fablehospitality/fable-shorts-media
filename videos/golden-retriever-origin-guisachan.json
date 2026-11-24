@@ -30,8 +30,8 @@
   "checked_at": "2026-11-24T18:50:00Z"
  },
  "youtube": {
-  "status": "pending",
-  "note": "Zapier YouTube Upload Video returned 429 Too Many Requests 4 times, then 'throttled without retry' (2026-11-24 11:25-11:40 AM PT). Retry scheduled for 12:22 PM PT in the same session."
+  "status": "manual",
+  "note": "Zapier YouTube Upload Video throttled ('429' then 'throttled without retry') on every try 11:25 AM - 1:25 PM PT 2026-11-24; Jackson to upload by hand in YouTube Studio (private, scheduled 2026-11-25 9:00 AM PT, altered content: yes, thumbnail golden-retriever-origin-guisachan_thumb.jpg)."
  },
  "facebook": {},
  "instagram": {},
