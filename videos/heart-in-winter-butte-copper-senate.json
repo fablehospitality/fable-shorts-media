@@ -36,7 +36,11 @@
   "thumbnail": "set",
   "containsSyntheticMedia": true
  },
- "facebook": {},
+ "facebook": {
+  "post_id": "2363306691176660",
+  "posted_at": "2026-11-24T17:04:00Z",
+  "cover": "auto"
+ },
  "instagram": {},
  "tiktok": {
   "status": "scheduled",
