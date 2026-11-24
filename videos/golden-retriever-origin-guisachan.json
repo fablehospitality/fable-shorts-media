@@ -41,5 +41,13 @@
   "buffer_post_id": "6b05e7111aaa29e66b09111a",
   "scheduled_at": "2026-11-25T17:00:00Z",
   "note": "no AI label (Buffer can't set it), TikTok auto cover"
+ },
+ "x": {
+  "status": "scheduled",
+  "via": "buffer",
+  "buffer_post_id": "6b05fca9556a4d0b6e0d874a",
+  "channel": "fablehosp X Premium+ Profile",
+  "scheduled_at": "2026-11-25T17:00:00Z",
+  "note": "full social caption (Premium+ allows long posts), social video"
  }
 }
