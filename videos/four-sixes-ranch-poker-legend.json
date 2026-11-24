@@ -37,11 +37,13 @@
   },
   "facebook": {
     "post_id": "2356019968467393",
-    "posted_at": "2026-11-18T17:03:28Z"
+    "posted_at": "2026-11-18T17:03:28Z",
+    "cover": "custom (set by hand in Business Suite, 2026-11-24)"
   },
   "instagram": {
     "post_id": "18109355264285751",
-    "posted_at": "2026-11-18T17:07:08Z"
+    "posted_at": "2026-11-18T17:07:08Z",
+    "cover": "auto (change in the Instagram app)"
   },
   "tiktok": {
     "status": "scheduled",

@@ -30,12 +30,14 @@
   },
   "facebook": {
     "post_id": "982747224596213",
-    "posted_at": "2026-11-21T17:04:12Z"
+    "posted_at": "2026-11-21T17:04:12Z",
+    "cover": "custom (set by hand in Business Suite, 2026-11-24)"
   },
   "instagram": {
     "post_id": "18252533347309298",
     "posted_at": "2026-11-21T17:08:19Z",
-    "note": "first attempt returned 'still processing'; checked feed, not posted; retry succeeded"
+    "note": "first attempt returned 'still processing'; checked feed, not posted; retry succeeded",
+    "cover": "auto (change in the Instagram app)"
   },
   "tiktok": {
     "status": "scheduled",
