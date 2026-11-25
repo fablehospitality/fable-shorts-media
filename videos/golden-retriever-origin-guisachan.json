@@ -37,7 +37,11 @@
   "scheduled_at": "2026-11-25T17:00:00Z",
   "note": "Zapier's YouTube upload was throttled all day 2026-11-24; scheduled through Buffer instead (posts public at 9 AM PT as a Short). Buffer sends no tags or custom thumbnail: a follow-up at ~9:20 AM PT adds them with the YouTube API. No AI label (Jackson's decision 2026-11-24)."
  },
- "facebook": {},
+ "facebook": {
+  "post_id": "1139732318791700",
+  "posted_at": "2026-11-25T17:04:30Z",
+  "cover": "auto"
+ },
  "instagram": {},
  "tiktok": {
   "status": "scheduled",
