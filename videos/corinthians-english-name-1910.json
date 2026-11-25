@@ -31,9 +31,27 @@
   "angle": "Why Brazil's Corinthians is named after Corinthian FC, the English amateur club whose 1910 Brazil tour inspired five São Paulo railway workers to found it on 1 Sept 1910",
   "checked_at": "2026-11-25T22:33:00Z"
  },
- "youtube": {},
+ "youtube": {
+  "status": "scheduled",
+  "via": "buffer",
+  "buffer_post_id": "6b07691d0607394ad405e347",
+  "scheduled_at": "2026-11-26T17:00:00Z",
+  "note": "tags + custom thumbnail set by the follow-up at 9:20 AM PT"
+ },
  "facebook": {},
  "instagram": {},
- "tiktok": {},
- "x": {}
+ "tiktok": {
+  "status": "scheduled",
+  "via": "buffer",
+  "buffer_post_id": "6b076928da32ccbb3e09f953",
+  "scheduled_at": "2026-11-26T17:00:00Z",
+  "note": "auto cover, no AI label"
+ },
+ "x": {
+  "status": "scheduled",
+  "via": "buffer",
+  "buffer_post_id": "6b07692f0988da66c50592f8",
+  "scheduled_at": "2026-11-26T17:00:00Z",
+  "note": "full social caption + social video"
+ }
 }
