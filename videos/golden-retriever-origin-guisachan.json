@@ -30,8 +30,12 @@
   "checked_at": "2026-11-24T18:50:00Z"
  },
  "youtube": {
-  "status": "manual",
-  "note": "Zapier YouTube Upload Video throttled ('429' then 'throttled without retry') on every try 11:25 AM - 1:25 PM PT and again at 6:00 PM PT 2026-11-24; Jackson to upload by hand in YouTube Studio (private, scheduled 2026-11-25 9:00 AM PT, altered content: yes, thumbnail golden-retriever-origin-guisachan_thumb.jpg)."
+  "status": "scheduled",
+  "via": "buffer",
+  "buffer_post_id": "6b064aa9c6a3f356c90857a6",
+  "channel": "FableShorts YouTube Channel",
+  "scheduled_at": "2026-11-25T17:00:00Z",
+  "note": "Zapier's YouTube upload was throttled all day 2026-11-24; scheduled through Buffer instead (posts public at 9 AM PT as a Short). Buffer sends no AI label, tags or custom thumbnail: a follow-up at ~9:20 AM PT sets those with the YouTube API."
  },
  "facebook": {},
  "instagram": {},
