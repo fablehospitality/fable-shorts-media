@@ -31,7 +31,7 @@
  },
  "youtube": {
   "status": "manual",
-  "note": "Zapier YouTube Upload Video throttled ('429' then 'throttled without retry') on every try 11:25 AM - 1:25 PM PT 2026-11-24; Jackson to upload by hand in YouTube Studio (private, scheduled 2026-11-25 9:00 AM PT, altered content: yes, thumbnail golden-retriever-origin-guisachan_thumb.jpg)."
+  "note": "Zapier YouTube Upload Video throttled ('429' then 'throttled without retry') on every try 11:25 AM - 1:25 PM PT and again at 6:00 PM PT 2026-11-24; Jackson to upload by hand in YouTube Studio (private, scheduled 2026-11-25 9:00 AM PT, altered content: yes, thumbnail golden-retriever-origin-guisachan_thumb.jpg)."
  },
  "facebook": {},
  "instagram": {},
