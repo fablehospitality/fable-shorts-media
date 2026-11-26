@@ -38,7 +38,11 @@
   "scheduled_at": "2026-11-26T17:00:00Z",
   "note": "tags + custom thumbnail set by the follow-up at 9:20 AM PT"
  },
- "facebook": {},
+ "facebook": {
+  "post_id": "1153162690675498",
+  "posted_at": "2026-11-26T17:03:42Z",
+  "cover": "auto"
+ },
  "instagram": {},
  "tiktok": {
   "status": "scheduled",
