@@ -32,9 +32,26 @@
   "angle": "The Lions' Thanksgiving tradition began in 1934 against the Bears: George A. Richards bought the Portsmouth Spartans, moved them to Detroit, booked the champion Bears for Thanksgiving and put it on 94 NBC stations",
   "checked_at": "2026-11-26T18:45:00Z"
  },
- "youtube": {},
+ "youtube": {
+  "status": "scheduled",
+  "via": "buffer",
+  "buffer_post_id": "6b0885a4b4b931d03b0137ca",
+  "scheduled_at": "2026-11-27T17:00:00Z"
+ },
  "facebook": {},
  "instagram": {},
- "tiktok": {},
- "x": {}
+ "tiktok": {
+  "status": "scheduled",
+  "via": "buffer",
+  "buffer_post_id": "6b0885b69ab990f6cd08d9e2",
+  "scheduled_at": "2026-11-27T17:00:00Z",
+  "note": "auto cover, no AI label"
+ },
+ "x": {
+  "status": "scheduled",
+  "via": "buffer",
+  "buffer_post_id": "6b0885c351348f761b03e0c8",
+  "scheduled_at": "2026-11-27T17:00:00Z",
+  "note": "full social caption + social video"
+ }
 }
