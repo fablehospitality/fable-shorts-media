@@ -37,9 +37,26 @@
   "angle": "Why St. Louis's NHL team is named after W. C. Handy's 1914 song, and the different song (Gloria) behind its first Stanley Cup",
   "checked_at": "2026-11-27T18:49:00Z"
  },
- "youtube": {},
+ "youtube": {
+  "status": "scheduled",
+  "via": "buffer",
+  "buffer_post_id": "6b09d7b5f4e40b1063021e28",
+  "scheduled_at": "2026-11-28T17:00:00Z"
+ },
  "facebook": {},
  "instagram": {},
- "tiktok": {},
- "x": {}
+ "tiktok": {
+  "status": "scheduled",
+  "via": "buffer",
+  "buffer_post_id": "6b09d7c732550cd2970e8b9c",
+  "scheduled_at": "2026-11-28T17:00:00Z",
+  "note": "auto cover (frame 0), no AI label"
+ },
+ "x": {
+  "status": "scheduled",
+  "via": "buffer",
+  "buffer_post_id": "6b09d7cecff55020650b1f58",
+  "scheduled_at": "2026-11-28T17:00:00Z",
+  "note": "full social caption + social cut"
+ }
 }
