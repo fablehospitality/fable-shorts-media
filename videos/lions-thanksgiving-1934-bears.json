@@ -33,10 +33,12 @@
   "checked_at": "2026-11-26T18:45:00Z"
  },
  "youtube": {
-  "status": "scheduled",
+  "status": "public",
   "via": "buffer",
   "buffer_post_id": "6b0885a4b4b931d03b0137ca",
-  "scheduled_at": "2026-11-27T17:00:00Z"
+  "scheduled_at": "2026-11-27T17:00:00Z",
+  "id": "2lDO37mu9D4",
+  "checked_at": "2026-11-27T17:07:00Z"
  },
  "facebook": {
   "post_id": "4048844171924548",
