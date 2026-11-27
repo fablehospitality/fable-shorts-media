@@ -43,7 +43,12 @@
   "posted_at": "2026-11-27T17:04:29Z",
   "cover": "auto"
  },
- "instagram": {},
+ "instagram": {
+  "post_id": "18092124704316249",
+  "posted_at": "2026-11-27T17:06:14Z",
+  "url": "https://www.instagram.com/reel/DgQLKkiBwHW/",
+  "cover": "custom"
+ },
  "tiktok": {
   "status": "scheduled",
   "via": "buffer",
