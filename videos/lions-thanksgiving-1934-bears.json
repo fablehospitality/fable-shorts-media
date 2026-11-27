@@ -38,7 +38,11 @@
   "buffer_post_id": "6b0885a4b4b931d03b0137ca",
   "scheduled_at": "2026-11-27T17:00:00Z"
  },
- "facebook": {},
+ "facebook": {
+  "post_id": "4048844171924548",
+  "posted_at": "2026-11-27T17:04:29Z",
+  "cover": "auto"
+ },
  "instagram": {},
  "tiktok": {
   "status": "scheduled",
